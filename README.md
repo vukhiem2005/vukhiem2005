@@ -27,7 +27,9 @@ Cinema ticketing and management system built with ASP.NET Core, C#, and SQL Serv
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" width="42" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="42" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="42" height="42" />
 </p>
+
 
 
 
@@ -37,6 +39,3 @@ Cinema ticketing and management system built with ASP.NET Core, C#, and SQL Serv
 
 **Tools:** Git · GitHub Actions · Streamlit · Playwright
 
----
-
-*Open to AI Engineering and Machine Learning internship opportunities.*
