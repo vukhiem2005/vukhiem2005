@@ -20,6 +20,10 @@ Cinema ticketing and management system built with ASP.NET Core, C#, and SQL Serv
 
 ## Tech Stack
 
+
+![Tech Stack](https://skillicons.dev/icons?i=py,sklearn,fastapi,nextjs,ts,cs,dotnet,sqlite,git,githubactions&theme=dark&perline=10)
+
+
 **AI & Data:** Python · Pandas · NumPy · Scikit-learn · TF-IDF
 
 **Development:** FastAPI · Next.js · TypeScript · C# · ASP.NET Core · SQL
